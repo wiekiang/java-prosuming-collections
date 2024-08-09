@@ -67,7 +67,7 @@ In the real world, the approach demonstrated in this code could be applied to va
     -   Use Feign clients to integrate with external health services for lab results, prescription information, or specialist consultations.
     -   Provide secure access to patient records and integration with healthcare providers.
 
-###Event Management Platform:
+#### Event Management Platform:
 
 -   Description: An application for managing events, including scheduling, ticketing, and attendee management. It could integrate with external services for ticket sales and event promotion.
 -   Features:
